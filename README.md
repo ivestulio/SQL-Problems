@@ -1,2 +1,15 @@
 # SQL-Questions-
-![sql-question1](https://user-images.githubusercontent.com/83380670/135176455-471e4759-06f2-4271-add9-2b25f410a95d.png)
+![sql-question1](https://user-images.githubusercontent.com/83380670/135332427-7c4e6252-346f-4998-a24a-2b73c079301c.png)
+
+#### QUERY:
+SELECT 
+CASE 
+WHEN A + B > C AND A + C > B AND B + C > A THEN
+CASE 
+WHEN A = B AND B = C THEN 'Equilateral'
+WHEN A = B OR B = C OR A = C THEN 'Isosceles'
+ELSE 'Scalene'
+END 
+ELSE 'Not A Triangle'
+END 
+FROM TRIANGLES ; 
