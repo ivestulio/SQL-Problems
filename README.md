@@ -27,3 +27,9 @@ SELECT CONCAT ('There are a total of ', COUNT(OCCUPATION), ' ', LOWER(OCCUPATION
 ![sql-question3](https://user-images.githubusercontent.com/83380670/135633834-67a7a6d4-98f1-4871-9a8b-73bfe08b84d6.png)
 #### QUERY :
 ![sql-ans3](https://user-images.githubusercontent.com/83380670/135644564-f4d58c3d-9da9-43d2-9dc3-dcc0bdefc14f.png)
+
+## Problem 4: New Companies 
+
+![sql-question4](https://user-images.githubusercontent.com/83380670/135678116-613e0348-ab02-4ce5-ac0f-cdb0af50ab19.png)
+#### QUERY :
+![sql-ans4](https://user-images.githubusercontent.com/83380670/135678125-aca8c3d3-5040-4708-b97c-d69531f47f31.png)
