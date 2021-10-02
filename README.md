@@ -1,4 +1,13 @@
 # SQL-Questions-
+## Problem : Occupations 
+
+
+![sql-question5](https://user-images.githubusercontent.com/83380670/135698678-be1b89d1-9ddc-49f6-9e1b-33bd247eb961.png)
+#### QUERY :
+![sql-ans5](https://user-images.githubusercontent.com/83380670/135698680-0b14d8c6-ec8f-4b9e-9b59-74a2fcacb7da.png)
+
+
+
 ## Problem 1 :
 ![sql-question1](https://user-images.githubusercontent.com/83380670/135332427-7c4e6252-346f-4998-a24a-2b73c079301c.png)
 #### QUERY:
